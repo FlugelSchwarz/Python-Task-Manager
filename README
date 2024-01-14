@@ -1,0 +1,19 @@
+# Python Task Manager
+
+This is a simple Task Manager in Python with a graphical interface using Tkinter.
+
+## Features
+
+- Add tasks with description and due date.
+- List all tasks.
+- Mark tasks as completed or not completed.
+- Remove tasks from the list.
+
+## Requirements
+
+Make sure you have Python 3 installed on your system. If you don't have it yet, you can download it [here](https://www.python.org/downloads/).
+
+## How to Run
+cd your-repository
+
+python task_manager_gui.py
